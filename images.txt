@@ -1,5 +1,5 @@
 #支持私库
-https://github.com/clavenshine/nastools
+https://github.com/clavenshine/nastools:master
 
 #支持指定架构
 
